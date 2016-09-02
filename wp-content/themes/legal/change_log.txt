@@ -1,0 +1,16 @@
+Version 1.0
+i)  Theme Submitted for approval
+
+Version 1.0.1
+i)	 Replace echo get_the_title() with the_title_attribute(),
+ii)	 Replace the_title() with the_title_attribute(),
+iii) set License / Copyright readme.txt.
+iv)  Fix css issues.
+
+Version 1.0.2
+i) remove the post format tag from style.css and readme.txt
+ii) Replace the the_title_attribute() with the_title() which are not title or alt atributes of the tags.
+
+Version: 1.0.3
+i) Add Pro Theme Features tab in theme options.
+
